@@ -100,7 +100,7 @@ bool Bag::remove(TElem elem) {
 		}
 	}
 	return false;
-} // Best case: Theta(1), Worst Case: Theta(n*n) = Average Case, General Case: O(n*n)
+} // Best case: Theta(1), Worst Case: Theta(n*n) = Average Case, General Case: O(n*n) - added to complexity of used function nrOcurrences
 
 
 bool Bag::search(TElem elem) const {
@@ -124,7 +124,7 @@ int Bag::nrOccurrences(TElem elem) const {
 		}
 	}
 	return count;
-} // Best case: Theta(1), Worst Case: Theta(n) = Average Case, General Case: O(n)
+} // Best case: Theta(1), Worst Case: Theta(n) = Average Case, General Case: O(n) - added to complexity of used function searchPos
 
 
 int Bag::size() const {
