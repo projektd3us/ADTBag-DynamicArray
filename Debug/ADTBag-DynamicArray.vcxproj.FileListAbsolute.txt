@@ -1,0 +1,2 @@
+C:\Users\denni\Documents\GitHub\ADTBag-DynamicArray\Debug\ADTBag-DynamicArray.exe
+C:\Users\denni\Documents\GitHub\ADTBag-DynamicArray\Debug\ADTBag-DynamicArray.pdb
